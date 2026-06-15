@@ -9,9 +9,9 @@
 ### ⚡ Building • Learning • Shipping
 
 <p>
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/mariakevin/">LinkedIn</a> •
 <a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_GITHUB">GitHub</a>
+<a href="https://github.com/Mariakevin/">GitHub</a>
 </p>
 
 </div>
@@ -126,9 +126,9 @@ Features:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariakevin&show_icons=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mariakevin"/>
 
 </p>
 
@@ -136,13 +136,13 @@ Features:
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariakevin"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mariakevin/Mariakevin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -181,11 +181,11 @@ learning = [
 
 # 📬 Connect
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/mariakevin/
 
 Portfolio: YOUR_PORTFOLIO
 
-Email: YOUR_EMAIL
+Email: mariakevin0504@gmail.com
 
 ---
 
