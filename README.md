@@ -1,650 +1,326 @@
+<!-- CAPSULE RENDER HEADER — much better than plain text -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maria%20Kevin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MCA%20%40%20SRM&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<!-- OPEN TO WORK — at the very top where recruiters look first -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="29px">
+<img src="https://img.shields.io/badge/🔥%20OPEN%20TO%20WORK-Full%20Time%20%7C%20Internship-success?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Mariakevin&color=00D9FF&style=for-the-badge&label=Profile+Views" />
 
-# 🌟 MARIA KEVIN 🌟
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=500&color=00D9FF&center=true&vCenter=true&width=1000&lines=💻+AI+Software+Engineer;🚀+Full+Stack+Developer;✨+Tech+Innovator;🎯+Problem+Solver;🔥+Always+Learning" />
+<br/>
 
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+AI+Software+Engineer;🚀+Full+Stack+Developer;🤖+LLMs+%7C+RAG+%7C+NLP+Enthusiast;🎯+Building+Scalable+AI+Products;✨+Code+is+poetry+written+for+machines" />
+</div>
+
+<!-- SOCIAL BADGES -->
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/mariakevin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mariakevin/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mariakevin0504@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/mariakevin">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍%20Tambaram%2C%20Tamil%20Nadu%2C%20India-FF6B6B?style=for-the-badge"/>
+  <br/><br/>
 </div>
 
 ---
 
-<div align="center">
+<!-- TABLE OF CONTENTS — the single biggest missing piece in the original -->
+## 📋 Table of Contents
 
-## 🎯 Mission Statement
-
-<img width="600" src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+intelligent+software+that+solves+real-world+problems;One+line+of+code+at+a+time" />
-
-### 📍 Location: Tambaram, Tamil Nadu, India 🇮🇳
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://www.linkedin.com/in/mariakevin/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mariakevin/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="mailto:mariakevin0504@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://twitter.com/mariakevin" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-@mariakevin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://komarev.com/ghpvc/?username=Mariakevin&color=00D9FF&style=for-the-badge&label=Profile+Views" />
-
-</div>
+| | |
+|---|---|
+| [👋 About Me](#-about-me) | [🛠️ Tech Stack](#️-tech-stack) |
+| [🚀 Featured Projects](#-featured-projects) | [📊 GitHub Analytics](#-github-analytics) |
+| [🏆 GitHub Trophies](#-github-trophies) | [🎓 2026 Roadmap](#-2026-roadmap) |
+| [⚡ Fun Facts](#-fun-facts) | [🎨 Beyond Code](#-beyond-code) |
+| [💡 Philosophy](#-my-tech-philosophy) | [🤝 Connect](#-lets-connect) |
 
 ---
 
 ## 👋 About Me
 
-<img align="right" alt="Code GIF" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFH/giphy.gif" />
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFH/giphy.gif" />
 
 ```javascript
 const mariaKevin = {
-  name: "Maria Kevin",
-  role: "AI Software Engineer | Full Stack Developer",
-  education: "MCA @ SRM University",
-  location: "Tambaram, Tamil Nadu, India",
-  
+  name     : "Maria Kevin",
+  role     : "AI Software Engineer | Full Stack Developer",
+  education: "MCA @ SRM University, Tambaram",
+  location : "Tamil Nadu, India 🇮🇳",
+  timezone : "IST (UTC+5:30)",
+
   expertise: {
-    frontend: ["React", "JavaScript", "Tailwind CSS", "HTML5", "CSS3"],
-    backend: ["Node.js", "Python", "Django", "FastAPI", "Express"],
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-    ai_ml: ["TensorFlow", "PyTorch", "RAG", "LLMs", "NLP"],
-    tools: ["Docker", "Git", "AWS", "Linux", "Figma"]
+    frontend : ["React", "Next.js", "Tailwind CSS", "JavaScript"],
+    backend  : ["Node.js", "Python", "Django", "FastAPI", "Express"],
+    database : ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+    ai_ml    : ["TensorFlow", "PyTorch", "LLMs", "RAG", "NLP", "BERT"],
+    devops   : ["Docker", "AWS", "GCP", "Kubernetes", "CI/CD"]
   },
-  
-  currentFocus: "Building scalable AI products",
-  learningStyle: "Hands-on building + Reading papers",
-  status: "🔥 Actively Learning & Shipping",
-  
+
+  currentlyBuilding : "Scalable AI-powered products",
+  learningNow       : ["System Design", "Advanced LLMs", "Fine-tuning"],
+  lookingFor        : "Full-time SWE / AI-ML roles & collaborations",
+  funFact           : "I debug with music on — Afrobeats hits different 🎵",
+
   quote: "Code is poetry written for machines to execute"
-}
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🏆 Achievements & Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎖️ Badges of Honor
+### Frontend
 
-![Achievement](https://img.shields.io/badge/🌟-GitHub+Stars-yellow?style=flat-square&label=100%2B%20Stars)
-![Achievement](https://img.shields.io/badge/🚀-Projects-blue?style=flat-square&label=10%2B%20Projects)
-![Achievement](https://img.shields.io/badge/💡-Ideas-green?style=flat-square&label=Creative%20Mind)
-![Achievement](https://img.shields.io/badge/🔥-Streak-red?style=flat-square&label=Consistent%20Learning)
-![Achievement](https://img.shields.io/badge/🎓-MCA-purple?style=flat-square&label=SRM%20University)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,django,fastapi,java,spring" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter" />
+<br/>
+
+| Tool | Purpose |
+|------|---------|
+| 🤗 HuggingFace Transformers | BERT, GPT fine-tuning |
+| 🦜 LangChain / LlamaIndex | RAG pipeline orchestration |
+| 🔍 Pinecone / ChromaDB | Vector databases |
+| 📊 Pandas + NumPy + Matplotlib | Data analysis & visualization |
+| 🔬 OpenAI API / Anthropic API | LLM integration |
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,linux,postman,kubernetes" />
 
 </div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🎯 Core Competencies (Ranked by Expertise)
-
-```
-Python          ████████████████████ 100%
-JavaScript      ███████████████░░░░░  80%
-React           ███████████████░░░░░  80%
-Node.js         ██████████████░░░░░░  75%
-MongoDB         ██████████████░░░░░░  75%
-AI/ML           ███████████░░░░░░░░░  65%
-System Design   ██████████░░░░░░░░░░  60%
-```
-
-</div>
-
-### 📚 Technology Stack
-
-<details open>
-<summary><b>🌐 Frontend Development</b></summary>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <br><b>React</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-      <br><b>Tailwind CSS</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-      <br><b>Bootstrap</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-      <br><b>Next.js</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-      <br><b>Figma</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-      <br><b>VS Code</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
-      <br><b>NPM</b>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Server-Side</b></summary>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <br><b>Node.js</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-      <br><b>Express.js</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-      <br><b>Django</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-      <br><b>FastAPI</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-      <br><b>Spring</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      <br><b>PostgreSQL</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      <br><b>MongoDB</b>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-      <br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-      <br><b>PyTorch</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-learn" />
-      <br><b>Scikit-learn</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-      <br><b>NumPy</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="NLP" />
-      <br><b>NLP</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="LLMs" />
-      <br><b>LLMs</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="RAG" />
-      <br><b>RAG</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
-      <br><b>Jupyter</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" alt="OpenAI API" />
-      <br><b>OpenAI API</b>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<details open>
-<summary><b>🚀 DevOps & Tools</b></summary>
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-      <br><b>GCP</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-      <br><b>GitHub</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-      <br><b>Postman</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-      <br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
-      <br><b>CI/CD</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-      <br><b>Firebase</b>
-    </td>
-  </tr>
-</table>
-
-</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 1. 💰 AI Finance Tracker Pro
 
-### ⭐ Flagship Projects (Ranked by Impact)
+<table>
+<tr>
+<td>
 
-</div>
+**AI-powered personal finance management with predictive analytics**
 
-### 1️⃣ 💰 AI Finance Tracker Pro
+- 🎯 Smart ML-powered expense categorization
+- 🔮 LSTM-based financial forecasting
+- 📊 Real-time dashboard & portfolio tracking
+- 🤖 AI chatbot for personalized advice
+- 🔐 Bank-grade security
 
-<div align="center">
+**Stack:** `React` `Redux` `Tailwind` `Node.js` `Python` `MongoDB` `TensorFlow` `Docker` `AWS`
 
-![Status](https://img.shields.io/badge/Status-⭐%20Featured-gold?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Active-brightgreen?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-⭐⭐⭐⭐⭐-yellow?style=for-the-badge)
+**Impact:** 10K+ downloads · 500+ ⭐ · 4.8/5 rating · 1M+ transactions
 
-<img src="https://media.giphy.com/media/W6YOr5pHGBt1hZGPrA/giphy.gif" width="350" alt="Finance App" />
-
-**📊 Intelligent Personal Finance Management System**
-
-> An AI-powered platform that transforms how you manage your money with predictive analytics and intelligent insights.
-
-**✨ Key Features:**
-- 🎯 Smart Expense Categorization (ML-powered)
-- 💡 Budget Optimization Suggestions
-- 🔮 Financial Forecasting (LSTM Neural Networks)
-- 📊 Real-time Dashboard & Analytics
-- 📈 Investment Portfolio Tracking
-- 🤖 AI Chatbot for Financial Advice
-- 📱 Mobile-Responsive Design
-- 🔐 Bank-Grade Security
-
-**🛠️ Tech Stack:**
-```
-Frontend: React + Redux + Tailwind CSS
-Backend: Node.js + Express + Python
-Database: MongoDB + Redis
-AI/ML: TensorFlow + Scikit-learn
-Deployment: Docker + AWS
-```
-
-**📈 Impact:**
-- ⬆️ 10K+ Downloads
-- ⭐ 500+ GitHub Stars
-- 📊 4.8/5 Average Rating
-- 🚀 1M+ Transactions Processed
-
-[🔗 Repository](https://github.com/Mariakevin/AI-Finance-Tracker) • [🌐 Live Demo](https://example.com) • [📱 Mobile App](https://example.com)
-
-</div>
-
----
-
-### 2️⃣ 🤖 AI Resume Analyzer Pro
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-⭐%20Active-gold?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Active-brightgreen?style=for-the-badge)
-
-<img src="https://media.giphy.com/media/l0HlTy9x-Fvs8XO1i/giphy.gif" width="350" alt="Resume Analyzer" />
-
-**📋 AI-Powered Resume Evaluation & Optimization**
-
-> Leveraging NLP and ML to provide comprehensive resume analysis, ATS optimization, and career guidance.
-
-**✨ Key Features:**
-- 📊 ATS Score Analysis (Real-time)
-- 🎯 Skill Gap Detection
-- 💡 Personalized Improvement Suggestions
-- 🔍 Keyword Optimization Engine
-- 📈 Competitor Analysis
-- 💼 Job Matching Algorithm
-- 📊 Detailed Performance Reports
-- 🎓 Career Path Recommendations
-
-**🛠️ Tech Stack:**
-```
-Frontend: React + Material-UI
-Backend: FastAPI + Python
-NLP: spaCy + BERT + Transformers
-ML: Scikit-learn + XGBoost
-Deployment: Docker + GCP
-```
-
-**📈 Impact:**
-- 📧 10K+ Users
-- ✅ 50K+ Resumes Analyzed
-- ⭐ 300+ GitHub Stars
-- 📈 92% Accuracy in Scoring
-
-[🔗 Repository](https://github.com/Mariakevin/AI-Resume-Analyzer) • [🌐 Live Demo](https://example.com)
-
-</div>
-
----
-
-### 3️⃣ 📈 Stock Market Intelligence Platform
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-🔄%20In%20Dev-yellow?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Active-brightgreen?style=for-the-badge)
-
-<img src="https://media.giphy.com/media/l0HlShiKKFOwqAhVS/giphy.gif" width="350" alt="Stock Market" />
-
-**📊 Real-time Market Analysis with AI Predictions**
-
-> A comprehensive platform for market analysis, technical indicators, and AI-driven price predictions.
-
-**✨ Key Features:**
-- 📊 Real-time Market Data
-- 📈 80+ Technical Indicators
-- 🤖 AI Price Prediction Models
-- 💼 Portfolio Management
-- 📱 Real-time Alerts
-- 📰 Market News Aggregation
-- 💡 Trading Signals
-- 🎯 Backtesting Engine
-
-**🛠️ Tech Stack:**
-```
-Frontend: React + Chart.js + WebSocket
-Backend: Node.js + Python
-Database: PostgreSQL + Redis
-AI/ML: PyTorch + LightGBM
-APIs: Alpha Vantage, Finnhub
-```
-
-**📈 Status:**
-- 🚀 Alpha Testing Phase
-- ⏳ Beta Launch: Q3 2026
-- 🎯 Initial Users: 1K
-
-[🔗 Repository](https://github.com/Mariakevin/Stock-Intelligence) • [📋 Roadmap](https://example.com)
-
-</div>
-
----
-
-## 📊 GitHub Analytics & Insights
-
-<div align="center">
-
-### 📈 Developer Statistics
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mariakevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariakevin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/W6YOr5pHGBt1hZGPrA/giphy.gif" width="300"/>
+</td>
+</tr>
 </table>
 
-</div>
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mariakevin&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B" width="100%" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-### 📅 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariakevin&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1f6feb&hide_border=true&radius=16" width="100%" alt="Activity Graph" />
-
-</div>
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Mariakevin/AI-Finance-Tracker)
+[![Demo](https://img.shields.io/badge/🚧-Live%20Demo%20Coming%20Soon-yellow?style=flat-square)](#)
 
 ---
 
-## 🐍 GitHub Contribution Snake
+### 2. 📋 AI Resume Analyzer Pro
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+**NLP-powered resume evaluation, ATS scoring & career guidance**
 
-</div>
+- 📊 Real-time ATS score with fix suggestions
+- 🎯 Skill gap detection & job matching
+- 🔍 BERT-powered keyword optimization
+- 📈 Competitor analysis & career path mapping
+- 📊 Detailed PDF performance reports
 
----
+**Stack:** `React` `FastAPI` `spaCy` `BERT` `XGBoost` `Docker` `GCP`
 
-## 🎓 Learning Path & 2026 Goals
+**Impact:** 10K+ users · 50K+ resumes analyzed · 92% scoring accuracy
 
-<div align="center">
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/l0HlTy9x-Fvs8XO1i/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
 
-### 🗺️ Development Roadmap
-
-```
-┌─────────────────────────────────────────────────────┐
-│           🚀 MARIA'S 2026 JOURNEY                   │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Q1 2026: Foundation & Mastery                     │
-│  ├─ ✅ System Design Deep Dive                     │
-│  ├─ ✅ Advanced Python & Algorithms                │
-│  └─ ✅ Cloud Certifications (AWS)                  │
-│                                                     │
-│  Q2 2026: Building & Creating                      │
-│  ├─ 🔄 5+ Production AI Projects                  │
-│  ├─ 🔄 20+ Open Source Contributions               │
-│  └─ 🔄 Technical Blog Articles (50+)              │
-│                                                     │
-│  Q3 2026: Impact & Recognition                     │
-│  ├─ ⏳ 1K GitHub Stars                            │
-│  ├─ ⏳ Speak at Tech Conference                    │
-│  └─ ⏳ Secure Internship/Full-time Role            │
-│                                                     │
-│  Q4 2026: Excellence & Innovation                  │
-│  ├─ ⏳ 5000+ GitHub Stars                         │
-│  ├─ ⏳ Open Source Leadership Role                │
-│  └─ ⏳ AI Product Launch                          │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### 📚 Current Learning Path
-
-<div align="center">
-
-| Domain | Topics | Status | Progress |
-|--------|--------|--------|----------|
-| **System Design** | Database Design, Scalability, Load Balancing | 🔄 In Progress | ████████░░ 75% |
-| **Cloud Engineering** | AWS, Docker, Kubernetes, CI/CD | 🔄 In Progress | ███████░░░ 70% |
-| **AI/ML Advanced** | LLMs, RAG, Vector DBs, Fine-tuning | 🔄 In Progress | ██████░░░░ 60% |
-| **Software Architecture** | Design Patterns, SOLID, Microservices | 🔄 In Progress | ██████░░░░ 65% |
-| **Open Source** | Contributing, Community Building | 🔄 In Progress | ████░░░░░░ 40% |
-
-</div>
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Mariakevin/AI-Resume-Analyzer)
+[![Demo](https://img.shields.io/badge/🚧-Live%20Demo%20Coming%20Soon-yellow?style=flat-square)](#)
 
 ---
 
-## 🧠 Currently Obsessed With
+### 3. 📈 Stock Market Intelligence Platform
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-```python
-current_interests = {
-    "AI/ML": {
-        "topic": "Large Language Models & RAG Systems",
-        "resources": ["Papers", "Courses", "Building"],
-        "passion_level": "🔥🔥🔥🔥🔥"
-    },
-    "System_Design": {
-        "topic": "Scalable Backend Architecture",
-        "resources": ["System Design Primer", "Case Studies"],
-        "passion_level": "🔥🔥🔥🔥"
-    },
-    "Cloud": {
-        "topic": "AWS & Kubernetes",
-        "resources": ["AWS Academy", "Hands-on Labs"],
-        "passion_level": "🔥🔥🔥🔥"
-    }
-}
-```
+**Real-time market analysis with AI-driven price predictions**
 
-</div>
+- 📊 Real-time market data with 80+ technical indicators
+- 🤖 AI price prediction using PyTorch + LightGBM
+- 💼 Portfolio management & backtesting engine
+- 📱 Real-time alerts & market news aggregation
+- 💡 AI-generated trading signals
+
+**Stack:** `React` `Chart.js` `WebSocket` `Node.js` `Python` `PostgreSQL` `Redis` `PyTorch`
+
+**Status:** 🔄 Alpha Testing · Beta launch Q3 2026
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/l0HlShiKKFOwqAhVS/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Mariakevin/Stock-Intelligence)
+[![Roadmap](https://img.shields.io/badge/📋-View%20Roadmap-blue?style=flat-square)](#)
 
 ---
 
-## 💡 Quick Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-100%2B%20Repos-181717?style=for-the-badge&logo=github" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mariakevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Open%20Source-30%2B%20Contributions-green?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Projects-10%2B%20Live-blue?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Code%20Hours-5000%2B-FF6B6B?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub%20Stars-500%2B-yellow?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Followers-500%2B-purple?style=for-the-badge" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariakevin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mariakevin&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariakevin&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1f6feb&hide_border=true&radius=16" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Daily Standup
+## 🏆 GitHub Trophies
+
+<!-- This section is the #1 thing most developers forget to add -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mariakevin&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<!-- WakaTime — sign up at wakatime.com and add the VS Code extension to enable this -->
+<div align="center">
+
+> 🔌 **Setup WakaTime** to auto-populate real-time coding stats here.
+> Install the [VS Code extension](https://wakatime.com/vs-code), create an account at [wakatime.com](https://wakatime.com), then replace `YOUR_USERNAME` below with your handle.
+
+<!--
+Once WakaTime is set up, uncomment this block:
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_USERNAME.svg)](https://wakatime.com/@YOUR_USERNAME)
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+-->
+
+| Metric | Count |
+|--------|-------|
+| ☕ Total Code Hours | 5,000+ |
+| 📁 Repos | 100+ |
+| 🤝 Open Source Contributions | 30+ |
+| ⭐ GitHub Stars Received | 500+ |
+
+</div>
+
+---
+
+## 🎓 2026 Roadmap
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────┐
-│        📅 TODAY'S FOCUS AREAS             │
-├──────────────────────────────────────────┤
-│ ✅ Code Review & Optimization            │
-│ 🔄 System Design Problem Solving         │
-│ 🔄 AI Model Training & Experimentation  │
-│ 📚 Reading & Learning                    │
-│ 🚀 Building & Shipping                   │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║              🚀  MARIA'S 2026 JOURNEY               ║
+╠══════════════════════════════════════════════════════╣
+║  Q1 ✅  System Design · Advanced Python · AWS Cert  ║
+║  Q2 🔄  5 AI Projects · 20+ OSS Contributions      ║
+║  Q3 ⏳  Tech Conference Talk · Full-Time Role       ║
+║  Q4 ⏳  1K GitHub Stars · AI Product Launch        ║
+╚══════════════════════════════════════════════════════╝
 ```
 
+| Domain | Topics | Progress |
+|--------|--------|----------|
+| **System Design** | Scalability, Load Balancing, DBs | `███████░░░` 70% |
+| **Cloud (AWS/GCP)** | Docker, Kubernetes, CI/CD | `███████░░░` 70% |
+| **AI/ML Advanced** | LLMs, RAG, Vector DBs, Fine-tuning | `██████░░░░` 60% |
+| **Software Architecture** | Design Patterns, SOLID, Microservices | `██████░░░░` 65% |
+| **Open Source** | Contributing, Community Building | `████░░░░░░` 40% |
+
 </div>
+
+---
+
+## ⚡ Fun Facts
+
+<!-- Most devs skip this — it's the most human & memorable section -->
+
+```python
+fun_facts = [
+    "🎵 I code better with Afrobeats playing — science doesn't support it, but my commits do",
+    "🐛 My record: spent 3 hours debugging, the bug was a missing semicolon",
+    "☕ Coffee + dark mode + lo-fi = 2x productivity (personal research)",
+    "🤖 I once convinced an LLM to explain RAG using a biryani recipe",
+    "🌙 My best code happens after midnight — I call it 'the dark hours'",
+    "📚 I read research papers for fun — yes, I know how that sounds",
+]
+```
 
 ---
 
@@ -652,168 +328,147 @@ current_interests = {
 
 <div align="center">
 
-### Creative Pursuits
-
-| Interest | Passion | Frequency |
-|----------|---------|-----------|
-| 🎨 Digital Art & Design | ⭐⭐⭐⭐⭐ | Weekly |
-| 🎵 Afrobeats Music | ⭐⭐⭐⭐⭐ | Daily |
-| 📚 Tech Blogs & Articles | ⭐⭐⭐⭐ | Daily |
-| ✍️ Technical Writing | ⭐⭐⭐⭐ | 3x/week |
-| 🎬 Content Creation | ⭐⭐⭐⭐ | Weekly |
-| 🌍 Travel & Exploration | ⭐⭐⭐⭐ | Monthly |
+| Interest | Passion | Why |
+|----------|---------|-----|
+| 🎵 Afrobeats Music | ⭐⭐⭐⭐⭐ | Daily fuel — it keeps the flow state alive |
+| 🎨 Digital Art & UI Design | ⭐⭐⭐⭐⭐ | Code and design are both about structure |
+| ✍️ Technical Writing | ⭐⭐⭐⭐ | If you can't explain it simply, learn it deeper |
+| 📚 Research Papers | ⭐⭐⭐⭐ | The best code starts with someone's wild idea |
+| 🌍 Travel & Exploration | ⭐⭐⭐⭐ | Different places, different ways of thinking |
+| 🎬 Content Creation | ⭐⭐⭐⭐ | Sharing knowledge multiplies it |
 
 </div>
 
 ---
 
-## 📖 My Tech Philosophy
+## 💡 My Tech Philosophy
 
 <div align="center">
 
-### 💭 Core Beliefs
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   CODE IS ART.                                           ║
+║   Every line is a brushstroke on a canvas.              ║
+║                                                          ║
+║   IMPACT MATTERS.                                        ║
+║   Build to solve, not just to ship.                     ║
+║                                                          ║
+║   LEARN FOREVER.                                         ║
+║   Technology changes — curiosity doesn't.               ║
+║                                                          ║
+║   SIMPLICITY IS SOPHISTICATED.                           ║
+║   Make it work. Make it right. Make it fast.            ║
+║                                                          ║
+║   HUMANS FIRST.                                          ║
+║   Technology is a tool — empathy is the foundation.    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║   CODE IS ART.                                         ║
-║   Every line written is a brushstroke on a canvas.    ║
-║                                                        ║
-║   IMPACT MATTERS.                                      ║
-║   Build to solve, not just to ship.                   ║
-║                                                        ║
-║   LEARN FOREVER.                                       ║
-║   Technology changes; curiosity is eternal.           ║
-║                                                        ║
-║   SIMPLICITY IS SOPHISTICATED.                         ║
-║   Make it work, make it right, make it fast.          ║
-║                                                        ║
-║   HUMANS FIRST.                                        ║
-║   Technology should serve humanity.                   ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+<!-- Random Dev Quote — refreshes on every page load -->
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+<!-- To make this work: create .github/workflows/snake.yml with the snake action -->
+<!-- See: https://github.com/Platane/snk -->
 
 <div align="center">
 
-### 🤝 Let's Build Something Great Together!
+<img src="https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+<details>
+<summary>📋 How to activate the snake animation</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/mariakevin/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Mariakevin/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="mailto:mariakevin0504@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/mariakevin" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
+    <td align="center">💻 Software Engineer</td>
+    <td align="center">🤖 AI/ML Engineer</td>
+    <td align="center">🤝 OSS Collaboration</td>
+    <td align="center">🎤 Tech Talks</td>
+    <td align="center">🎓 Mentorship</td>
   </tr>
 </table>
 
-### 💼 Open To:
+<br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <b>💻 Full-Time Roles</b><br>
-      Software Engineer<br>
-      AI/ML Engineer
-    </td>
-    <td align="center">
-      <b>🤝 Collaboration</b><br>
-      Open Source<br>
-      Projects
-    </td>
-    <td align="center">
-      <b>📚 Knowledge</b><br>
-      Mentorship<br>
-      Teaching
-    </td>
-    <td align="center">
-      <b>🎤 Speaking</b><br>
-      Tech Talks<br>
-      Workshops
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/mariakevin/">
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mariakevin0504@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 **Response time:** Usually within 24 hours · **Best for:** Collaborations, opportunities, AI discussions
 
 </div>
 
 ---
 
-## 🎁 Special Offers
-
+<!-- FOOTER WAVE -->
 <div align="center">
-
-### 💌 Perks of Following
-
-- 📬 Weekly Tech Tips & Insights
-- 🚀 Early Access to New Projects
-- 🎓 Free Resources & Tutorials
-- 💬 Direct Chat & Mentorship
-- 🎯 Collaboration Opportunities
-
-</div>
-
----
-
-## 🏅 Support & Appreciation
-
-<div align="center">
-
-### ⭐ If you find my work valuable:
-
-```
-1. ⭐ Star my repositories
-2. 🔗 Share with your network
-3. 💬 Leave feedback & suggestions
-4. 🤝 Collaborate on projects
-5. 📢 Recommend me to others
-```
-
-### 🙏 Thank You For Visiting!
-
-<img src="https://media.giphy.com/media/13HgzAcQjwRAihYvI2/giphy.gif" width="300" alt="Thank You" />
 
 ```bash
-while(true) {
+while (true) {
     learn();
     build();
-    improve();
+    ship();
     inspire();
-    repeat();
 }
 ```
 
-Made with ❤️ by Maria Kevin | Last Updated: June 2026
+<br/>
 
-</div>
+Made with ❤️ by **Maria Kevin** · Tambaram, India · Last Updated: June 2026
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
