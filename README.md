@@ -142,7 +142,9 @@ Features:
 
 # 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![snake gif]<p align="center">
+  <img src="https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
