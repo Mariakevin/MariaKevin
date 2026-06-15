@@ -17,8 +17,9 @@ jobs:
           github_user_name: Mariakevin
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
+          branch: output
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
