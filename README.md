@@ -1,54 +1,32 @@
-# ███████╗ OPEN SYSTEM STATUS
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
 
-> Maria Kevin
-> MCA Student
-> Software Engineer in Progress
+SYSTEM IDENTIFIED
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NAME        :: MARIA KEVIN
+STATUS      :: BUILDING
+LOCATION    :: EARTH
+MISSION     :: CREATE SOFTWARE THAT MATTERS
 
-SYSTEM STATUS
+LOADED MODULES
 
-🟢 Learning Software Engineering
-🟢 Building AI Applications
-🟢 Exploring Cloud & DevOps
-🟢 Open Source Contributions
+> Python
+> JavaScript
+> Node.js
+> MongoDB
+> AI Agents
+> RAG Systems
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CURRENT PROCESS
 
-CURRENT BUILD
+while(alive){
+    learn();
+    build();
+    improve();
+}
 
-[✓] AI Finance Tracker
-[ ] Portfolio Website v2
-[ ] SaaS Project
-[ ] Open Source Contributions
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-TECH TREE
-
-Backend:
-├── Node.js
-├── Express
-├── MongoDB
-└── SQL
-
-AI:
-├── RAG
-├── Vector Databases
-├── AI Agents
-└── Prompt Engineering
-
-Tools:
-├── Git
-├── Linux
-├── VS Code
-└── Postman
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-2026 OBJECTIVE
-
-Become an industry-ready Software Engineer
-specialized in AI-powered applications.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SYSTEM STATUS :: ONLINE
