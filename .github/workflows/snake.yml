@@ -12,7 +12,6 @@ jobs:
 generate:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Generate Snake Animation
     uses: Platane/snk@v3
@@ -28,4 +27,3 @@ steps:
       branch: output
       folder: dist
       clean: true
-```
