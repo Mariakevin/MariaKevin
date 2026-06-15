@@ -16,7 +16,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=💻+AI+Software+Engineer;🚀+Full+Stack+Developer;🤖+LLMs+%7C+RAG+%7C+NLP+Enthusiast;🎯+Building+Scalable+AI+Products;✨+Code+is+poetry+written+for+machines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=AI%20Software%20Engineer%20%F0%9F%92%BB;Full%20Stack%20Developer%20%F0%9F%9A%80;LLMs%20%7C%20RAG%20%7C%20NLP%20Enthusiast%20%F0%9F%A4%96;Building%20Scalable%20AI%20Products%20%F0%9F%8E%AF;Code%20is%20Poetry%20for%20Machines%20%E2%9C%A8" />
 </div>
 
 <!-- SOCIAL BADGES -->
@@ -247,7 +247,13 @@ const mariaKevin = {
 <!-- This section is the #1 thing most developers forget to add -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mariakevin&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mariakevin&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
+
+<br/>
+
+> 🏆 Trophies are earned from commits, pull requests, issues, followers, repos, and stars.
+> The more you contribute publicly, the more trophies unlock. They update automatically.
+
 
 </div>
 
