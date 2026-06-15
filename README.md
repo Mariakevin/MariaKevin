@@ -142,10 +142,7 @@ Features:
 
 # 🐍 Contribution Snake
 
-![Snake animation]
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+![Snake animation] https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg
 
 # 🧠 Currently Learning
 
