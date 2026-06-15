@@ -13,20 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: Mariakevin
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: List Generated Files
-        run: ls -R
-
-      - name: Deploy Snake to Output Branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          branch: output
-          folder: dist
+          target_branch: output
+          build_dir: dist
