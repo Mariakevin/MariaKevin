@@ -51,7 +51,7 @@
 |---|---|
 | [👋 About Me](#-about-me) | [🛠️ Tech Stack](#️-tech-stack) |
 | [🚀 Featured Projects](#-featured-projects) | [📊 GitHub Analytics](#-github-analytics) |
-| [🏆 GitHub Trophies](#-github-trophies) | [🎓 2026 Roadmap](#-2026-roadmap) |
+| [🏆 Achievements](#-achievements) | [🎓 2026 Roadmap](#-2026-roadmap) |
 | [⚡ Fun Facts](#-fun-facts) | [🎨 Beyond Code](#-beyond-code) |
 | [💡 Philosophy](#-my-tech-philosophy) | [🤝 Connect](#-lets-connect) |
 
@@ -242,18 +242,21 @@ const mariaKevin = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<!-- This section is the #1 thing most developers forget to add -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mariakevin&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" alt="GitHub Trophies"/>
+![](https://img.shields.io/badge/⏱️_Code_Hours-5%2C000%2B-FFD700?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📁_Repositories-100%2B-00D9FF?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/⭐_Stars_Earned-500%2B-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
-<br/>
+![](https://img.shields.io/badge/🤝_Contributions-30%2B-4CAF50?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🚀_Live_Projects-10%2B-9B59B6?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📊_Resumes_Analyzed-50K%2B-FF9800?style=for-the-badge&labelColor=0d1117)
 
-> 🏆 Trophies are earned from commits, pull requests, issues, followers, repos, and stars.
-> The more you contribute publicly, the more trophies unlock. They update automatically.
-
+![](https://img.shields.io/badge/🎓_MCA-SRM_University-E91E63?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🌍_Based_In-Tambaram%2C_India-03A9F4?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🔥_Status-Actively_Learning-success?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
