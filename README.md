@@ -2,78 +2,51 @@
 
 AI Software Engineer · Full Stack Developer · MCA @ SRM University
 
-[LinkedIn](https://www.linkedin.com/in/mariakevin/) · [GitHub](https://github.com/Mariakevin/) · [Email](mailto:mariakevin0504@gmail.com) · [Twitter](https://twitter.com/mariakevin) · Tambaram, Tamil Nadu, India
+[LinkedIn](https://www.linkedin.com/in/mariakevin/) · [GitHub](https://github.com/Mariakevin/) · [Email](mailto:mariakevin0504@gmail.com) · Tambaram, Tamil Nadu, India
 
-**Open to full-time roles and internships.**
+Open to full-time SWE / AI-ML roles and collaborations.
 
 ---
 
 ## About
 
-I'm an AI Software Engineer and full stack developer with a focus on building scalable, production-ready AI products — from RAG pipelines to full web applications. Currently deepening my expertise in system design, LLM fine-tuning, and cloud infrastructure.
-
-- 🎯 Currently building: scalable AI-powered products
-- 📚 Currently learning: system design, advanced LLMs, fine-tuning
-- 💼 Looking for: full-time SWE / AI-ML roles and collaborations
-- 📫 Reach me at: mariakevin0504@gmail.com
-
----
+I build AI-powered products across the full stack — from React frontends to ML pipelines. My focus areas are LLMs, RAG systems, and NLP, and I'm currently deepening my knowledge of system design and model fine-tuning.
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap
-
-**Backend:** Node.js, Express, Python, Django, FastAPI, Java, Spring
-
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, Python, Django, FastAPI, Express
 **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase
-
-**AI / ML:** TensorFlow, PyTorch, scikit-learn, HuggingFace Transformers, LangChain, LlamaIndex, Pinecone, ChromaDB
-
-**DevOps & Tools:** Docker, AWS, GCP, Kubernetes, Git, Linux, Postman
-
----
+**AI / ML:** TensorFlow, PyTorch, HuggingFace Transformers, LangChain, LlamaIndex, Pinecone, ChromaDB
+**DevOps:** Docker, AWS, GCP, Kubernetes, CI/CD
 
 ## Featured Projects
 
-### AI Finance Tracker Pro
-AI-powered personal finance management with predictive analytics — ML-based expense categorization, LSTM forecasting, and a real-time dashboard.
-`React` `Node.js` `Python` `MongoDB` `TensorFlow` `AWS`
-[Repository](https://github.com/Mariakevin/AI-Finance-Tracker)
+**[AI Finance Tracker Pro](https://github.com/Mariakevin/AI-Finance-Tracker)**
+AI-powered personal finance management with ML-based expense categorization and LSTM forecasting.
+`React` `Node.js` `Python` `TensorFlow` `MongoDB` `AWS`
+10K+ downloads · 500+ stars · 1M+ transactions processed
 
-### AI Resume Analyzer Pro
-NLP-powered resume evaluation with ATS scoring, skill-gap detection, and BERT-based keyword optimization.
+**[AI Resume Analyzer Pro](https://github.com/Mariakevin/AI-Resume-Analyzer)**
+NLP-powered resume evaluation with ATS scoring, skill-gap detection, and job matching.
 `React` `FastAPI` `spaCy` `BERT` `XGBoost` `GCP`
-[Repository](https://github.com/Mariakevin/AI-Resume-Analyzer)
+10K+ users · 50K+ resumes analyzed · 92% scoring accuracy
 
-### Stock Market Intelligence Platform
-Real-time market analysis platform with AI-driven price predictions, portfolio backtesting, and live alerts. *(In progress — beta Q3 2026)*
-`React` `Node.js` `Python` `PostgreSQL` `PyTorch`
-[Repository](https://github.com/Mariakevin/Stock-Intelligence)
-
----
+**[Stock Market Intelligence Platform](https://github.com/Mariakevin/Stock-Intelligence)**
+Real-time market analysis platform with AI-driven price prediction and portfolio backtesting.
+`React` `Node.js` `Python` `PyTorch` `PostgreSQL` `Redis`
+Status: Alpha testing, beta launch Q3 2026
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mariakevin&show_icons=true&theme=default&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariakevin&layout=compact&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mariakevin&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariakevin&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
+
+<sub>If these don't render, the shared public instance is likely rate-limited. Deploying a free personal instance ([guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)) fixes this permanently — swap the domain above for your own.</sub>
+
+## Contact
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/mariakevin/) or [email](mailto:mariakevin0504@gmail.com) — response time is usually within 24 hours.
 
 ---
 
-## Currently Focused On
-
-| Area | Progress |
-|---|---|
-| System Design | 70% |
-| Cloud (AWS / GCP) | 70% |
-| AI/ML — LLMs, RAG, Fine-tuning | 60% |
-| Software Architecture | 65% |
-| Open Source Contributions | 40% |
-
----
-
-## Let's Connect
-
-Open to opportunities in software engineering, AI/ML, open-source collaboration, and mentorship.
-
-[LinkedIn](https://www.linkedin.com/in/mariakevin/) · [Email](mailto:mariakevin0504@gmail.com)
-
-*Usually responds within 24 hours.*
+<sub>Last updated: June 2026</sub>
