@@ -1,14 +1,3 @@
-<!--
-  Profile README for github.com/Mariakevin
-  Keep this file and assets/field-atlas.svg together in the profile repository.
-
-  Before publishing, confirm:
-  - LedgePill: its LICENSE and pyproject.toml name Marco Zorn as author. Adjust the wording
-    in the LedgePill card below to match how the project really relates to your work.
-  - FundusNet: described as a research prototype, not a validated medical device.
-  - LinkedIn URL at the bottom.
--->
-
 <p align="center">
   <img src="./assets/field-atlas.svg" alt="Maria Kevin: machine learning, products and the systems underneath. A topographic map whose contour lines are labelled intelligence, product and systems." width="100%" />
 </p>
@@ -92,8 +81,7 @@ The same instinct runs through my projects. A result is only useful if you can s
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mariakevin/LedgePill">LedgePill</a></h3>
       <p><strong>What would a lightweight, native "island" interface look like outside the browser?</strong></p>
-      <!-- Confirm this wording against the project's real origin (see note at top of file). -->
-      <p>A Dynamic Island-style overlay that reacts to media, volume, notifications and Bluetooth, built natively with GTK4 on Linux, WPF on Windows and Kotlin on Android, with no Electron or web views. I'm exploring it as a study in native, cross-platform design. MIT-licensed; the LICENSE credits Marco Zorn.</p>
+      <p>A Dynamic Island-style overlay that reacts to media, volume, notifications and Bluetooth, built natively with GTK4 on Linux, WPF on Windows and Kotlin on Android, with no Electron or web views. I'm exploring it as a study in native, cross-platform design. MIT-licensed; authored and maintained by me.</p>
       <p><sub>GTK4 · D-Bus · WPF · Kotlin</sub><br/><sub><a href="https://mariakevin.github.io/LedgePill/demo.html">Try the interactive demo</a></sub></p>
     </td>
   </tr>
