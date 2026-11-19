@@ -1,138 +1,168 @@
 <!--
-  MARAYN / Engineering Field Atlas
-  Custom GitHub profile README.
+  Profile README for github.com/Mariakevin
+  Keep this file and assets/field-atlas.svg together in the profile repository.
 
-  Keep this file and assets/field-atlas.svg together in the Mariakevin/MariaKevin repository.
+  Before publishing, confirm:
+  - LedgePill: its LICENSE and pyproject.toml name Marco Zorn as author. Adjust the wording
+    in the LedgePill card below to match how the project really relates to your work.
+  - FundusNet: described as a research prototype, not a validated medical device.
+  - LinkedIn URL at the bottom.
+-->
 
-  Review before publishing:
-  - LedgePill's current LICENSE file names Marco Zorn as copyright holder.
-    Confirm the project's origin, authorship and licensing before making ownership claims.
-  - FundusNet is described here as a research prototype, not a clinically validated diagnostic product.
---><a id="top"></a>
 <p align="center">
-  <img src="./assets/field-atlas.svg" alt="MARAYN — Engineering Field Atlas: intelligence, products and systems" width="100%" />
-</p><p align="center">
-  <code>FIELD ATLAS / 001</code> &nbsp;·&nbsp; <code>CHENNAI, INDIA</code> &nbsp;·&nbsp; <code>MCA / 2027</code>
-</p><h1 align="center">Make intelligence useful.<br/>Make systems understandable.</h1><p align="center">
-  I'm <strong>Maria Kevin</strong> — an MCA student and software builder interested in the space between<br/>
-  machine learning, thoughtful products, and the systems that make them work.
-</p><p align="center">
-  <a href="#01-the-idea">THE IDEA</a> &nbsp; / &nbsp;
-  <a href="#02-selected-builds">SELECTED BUILDS</a> &nbsp; / &nbsp;
-  <a href="#03-the-toolbox">THE TOOLBOX</a> &nbsp; / &nbsp;
-  <a href="#04-current-investigations">CURRENT INVESTIGATIONS</a> &nbsp; / &nbsp;
-  <a href="#05-connect">CONNECT</a>
-</p>01 / The idea
-Most of my interests sit across three connected layers. I like exploring what happens when they are designed together instead of treated as separate disciplines.
+  <img src="./assets/field-atlas.svg" alt="Maria Kevin: machine learning, products and the systems underneath. A topographic map whose contour lines are labelled intelligence, product and systems." width="100%" />
+</p>
+
+<h1 align="center">Make intelligence useful.<br/>Make systems understandable.</h1>
+
+<p align="center">
+  I'm <strong>Maria Kevin</strong>, an MCA student in Chennai who builds software in the space between<br/>
+  machine learning, thoughtful products and the systems that hold them up.
+</p>
+
+<p align="center">
+  <a href="#the-idea">The idea</a> &nbsp;·&nbsp;
+  <a href="#software-that-shows-its-work">What connects my work</a> &nbsp;·&nbsp;
+  <a href="#selected-builds">Selected builds</a> &nbsp;·&nbsp;
+  <a href="#what-i-work-with">Tools</a> &nbsp;·&nbsp;
+  <a href="#currently-exploring">Exploring</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+</p>
+
+## The idea
+
+Most of what I build sits across three connected layers. I like finding out what happens when they are designed together instead of treated as separate disciplines.
+
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p><strong><code>A — INTELLIGENCE</code></strong></p>
-      <h3>Models that reason</h3>
-      <p>Applied ML, language models, retrieval, evaluation and making model behaviour easier to inspect.</p>
+      <h3>Intelligence</h3>
+      <p><strong>Models that reason.</strong></p>
+      <p>Applied ML, uncertainty, evaluation and making model behaviour easier to inspect.</p>
     </td>
     <td width="33%" valign="top">
-      <p><strong><code>B — PRODUCT</code></strong></p>
-      <h3>Tools people use</h3>
-      <p>Interfaces, workflows and decision-support products that turn technical capability into something useful.</p>
+      <h3>Product</h3>
+      <p><strong>Tools people actually use.</strong></p>
+      <p>Interfaces, workflows and decision support that turn technical capability into something useful.</p>
     </td>
     <td width="33%" valign="top">
-      <p><strong><code>C — SYSTEMS</code></strong></p>
-      <h3>Software that fits</h3>
-      <p>Linux, native applications, local-first thinking and software designed around real hardware constraints.</p>
+      <h3>Systems</h3>
+      <p><strong>Software that fits.</strong></p>
+      <p>Linux, native applications and software designed around real hardware and deployment constraints.</p>
     </td>
   </tr>
-</table>My favourite engineering problems live at the intersections: a model that needs a better interface, a product that needs a more reliable system, or a useful idea that has to work on ordinary hardware.
+</table>
 
-02 / Selected builds
-These are the projects that best represent the questions I enjoy working on. Each one explores a different part of the same idea: build something useful, then make the reasoning and engineering behind it visible.
+My favourite problems live at the intersections: a model that needs a better interface, a product that needs a more reliable system, or a useful idea that has to run on ordinary hardware.
+
+## Software that shows its work
+
+The same instinct runs through my projects. A result is only useful if you can see how it was reached, and a system should admit when it can't reach one.
+
+| Project | How it shows its work |
+| :-- | :-- |
+| **FundusNet** | Grad-CAM heatmaps show which image regions drove a prediction. When Monte Carlo dropout uncertainty is too high, it refuses to classify and recommends manual review. |
+| **InternMatch AI** | Hard eligibility rules run deterministically and separately from the fit score. Unknown facts stay `UNKNOWN` instead of silently becoming a rejection, and incomplete scores are labelled *Provisional*. |
+
+## Selected builds
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><code>FIELD NOTE 01 / APPLIED ML</code></p>
-      <h3><a href="https://github.com/Mariakevin/FundusNet">FundusNet ↗</a></h3>
-      <p><strong>Can an image-screening pipeline communicate uncertainty, not just a label?</strong></p>
-      <p>A retinal-image screening research prototype exploring model ensembles, image validation, uncertainty-aware inference and Grad-CAM visual explanations.</p>
-      <p><sub>PYTHON · PYTORCH · DJANGO · OPENCV · ONNX</sub></p>
+      <h3><a href="https://github.com/Mariakevin/FundusNet">FundusNet</a></h3>
+      <p><strong>Can a screening pipeline say "I'm not sure" instead of just returning a label?</strong></p>
+      <p>A research prototype that screens retinal fundus photographs into four classes: healthy, cataract, glaucoma and retinal disease. It combines a five-model ensemble (Swin Transformer, MaxViT, ConvNeXt-V2, EfficientNetV2, DeiT-III), uncertainty-aware test-time augmentation, an image validator that rejects non-fundus uploads, ONNX inference and Grad-CAM explanations. Trained on the public 4,217-image Eye Diseases Classification dataset, with a REST API, Docker deployment and CI.</p>
+      <p><sub><em>Research prototype, not a validated medical device.</em></sub></p>
+      <p><sub>Python · PyTorch · Django · OpenCV · ONNX · Docker</sub><br/><sub><a href="https://github.com/Mariakevin/FundusNet/blob/main/docs/PAPER_DRAFT.md">Read the paper draft</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <p><code>FIELD NOTE 02 / DECISION SUPPORT</code></p>
-      <h3><a href="https://github.com/Mariakevin/InternMatchAI">InternMatch AI ↗</a></h3>
-      <p><strong>What if internship matching explained its reasoning instead of returning a mystery score?</strong></p>
-      <p>A student-side assistant built around explicit eligibility rules, evidence-aware skill fit and transparent explanations.</p>
-      <p><sub>PYTHON · FASTAPI · REACT · TYPESCRIPT</sub></p>
+      <h3><a href="https://github.com/Mariakevin/InternMatchAI">InternMatch AI</a></h3>
+      <p><strong>What if internship matching explained its reasoning instead of returning a mystery percentage?</strong></p>
+      <p>A student-side decision-support tool. It checks eligibility with deterministic rules, audits each skill by evidence (demonstrated, self-reported, not found or confirmed gap), compares practical constraints like work mode and stipend, and flags risky listings by quoting the exact text that triggered the warning. The "Profile Fit" score has five visible components and can never override ineligibility. 72 automated tests cover 16 scenarios, including prompt-injection and low-quality scans.</p>
+      <p><sub>Python · FastAPI · Pydantic · React · TypeScript · Vite</sub><br/><sub><a href="https://github.com/Mariakevin/InternMatchAI/blob/main/docs/design-research.md">Read the design research</a></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><code>FIELD NOTE 03 / PERSONAL FINANCE</code></p>
-      <h3><a href="https://github.com/Mariakevin/FinAI">FinAI ↗</a></h3>
-      <p><strong>How can financial data become easier to understand and act on?</strong></p>
-      <p>A personal-finance application for transactions, budgets and AI-assisted spending insights, with a React and Supabase foundation.</p>
-      <p><sub>REACT · TYPESCRIPT · SUPABASE · POSTGRESQL</sub></p>
+      <h3><a href="https://github.com/Mariakevin/FinAI">FinAI</a></h3>
+      <p><strong>How can personal financial data become easier to understand and act on?</strong></p>
+      <p>A personal-finance app for tracking transactions and budgets, with a dashboard, charts and spending insights generated by Google Gemini through a Supabase Edge Function. Authentication and storage run on Supabase and PostgreSQL.</p>
+      <p><sub>React · TypeScript · Vite · Tailwind · Supabase · Gemini</sub></p>
     </td>
     <td width="50%" valign="top">
-      <p><code>FIELD NOTE 04 / NATIVE SOFTWARE</code></p>
-      <h3><a href="https://github.com/Mariakevin/LedgePill">LedgePill ↗</a></h3>
-      <p><strong>What would a lightweight, native “island” interface look like beyond the browser?</strong></p>
-      <p>A desktop interaction project exploring system events, media controls and compact UI across Linux and companion platforms.</p>
-      <p><sub>GTK4 · D-BUS · WPF · KOTLIN</sub></p>
+      <h3><a href="https://github.com/Mariakevin/LedgePill">LedgePill</a></h3>
+      <p><strong>What would a lightweight, native "island" interface look like outside the browser?</strong></p>
+      <!-- Confirm this wording against the project's real origin (see note at top of file). -->
+      <p>A Dynamic Island-style overlay that reacts to media, volume, notifications and Bluetooth, built natively with GTK4 on Linux, WPF on Windows and Kotlin on Android, with no Electron or web views. I'm exploring it as a study in native, cross-platform design. MIT-licensed; the LICENSE credits Marco Zorn.</p>
+      <p><sub>GTK4 · D-Bus · WPF · Kotlin</sub><br/><sub><a href="https://mariakevin.github.io/LedgePill/demo.html">Try the interactive demo</a></sub></p>
     </td>
   </tr>
-</table>The supporting instruments
-Project	What it is exploring
-GateCSDA	An ordered study workspace for GATE Computer Science and Data Science preparation.
-Learn-Earn	A study-to-income dashboard for tracking practical earning experiments alongside exam preparation.
+</table>
 
+### In the workshop
 
-03 / The toolbox
-I choose tools according to the problem rather than trying to use the same stack everywhere.
-<details>
-  <summary><strong>Languages & application development</strong></summary>
-  <p>Python · JavaScript · TypeScript · React · Node.js · FastAPI · Django · Express</p>
-</details><details>
-  <summary><strong>Machine learning & data</strong></summary>
-  <p>PyTorch · OpenCV · ONNX Runtime · model ensembles · image processing · retrieval and LLM application patterns</p>
-</details><details>
-  <summary><strong>Platforms & infrastructure</strong></summary>
-  <p>Linux · GTK4 · D-Bus · Supabase · PostgreSQL · Git · GitHub</p>
-</details>04 / Current investigations
+Two smaller tools I built for my own GATE 2027 preparation.
+
+| Project | What it does |
+| :-- | :-- |
+| [**GateCSDA**](https://github.com/Mariakevin/GateCSDA) | An ordered study plan for GATE Computer Science and Data Science, as a lightweight HTML, CSS and JavaScript site. |
+| [**Learn-Earn**](https://github.com/Mariakevin/Learn-Earn) | A dashboard that connects exam study to practical earning experiments. Vanilla JavaScript, linted with ESLint, Stylelint and html-validate. |
+
+## What I work with
+
+I choose tools by the problem, not by habit. This is what is actually in my repositories.
+
+| Area | Tools | Used in |
+| :-- | :-- | :-- |
+| Applied ML | PyTorch, ONNX Runtime, OpenCV, Grad-CAM, ensembles, test-time augmentation | FundusNet |
+| Backend | Django, FastAPI, Pydantic, Gunicorn, REST APIs | FundusNet, InternMatch AI |
+| Frontend | React, TypeScript, Vite; Tailwind CSS, shadcn/ui and Recharts in FinAI; hand-written CSS design tokens in InternMatch AI | FinAI, InternMatch AI |
+| Data and AI services | Supabase (PostgreSQL, Auth, Edge Functions), Google Gemini API | FinAI |
+| Native and systems | Linux, GTK4, D-Bus, WPF, Kotlin | LedgePill |
+| Quality and delivery | Docker, GitHub Actions, Ruff, pre-commit, unittest | FundusNet, InternMatch AI |
+
+## Currently exploring
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><code>01 — LOCAL AI</code></p>
-      <strong>Useful models on modest hardware</strong>
-      <p>Exploring compact models, local inference and practical ways to make AI less dependent on expensive infrastructure.</p>
+      <h3>Useful models on modest hardware</h3>
+      <p>Compact models, local inference and practical ways to make AI less dependent on expensive infrastructure.</p>
     </td>
     <td width="50%" valign="top">
-      <p><code>02 — MODEL RELIABILITY</code></p>
-      <strong>Evidence, uncertainty and review</strong>
-      <p>Interested in systems where model outputs can be checked, challenged and improved through explicit evaluation.</p>
+      <h3>Evidence, uncertainty and review</h3>
+      <p>Systems whose outputs can be checked, challenged and improved through explicit evaluation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><code>03 — OPEN SYSTEMS</code></p>
-      <strong>Native and Linux-first software</strong>
-      <p>Learning how operating-system capabilities can produce fast, integrated tools without unnecessary layers.</p>
+      <h3>Native and Linux-first software</h3>
+      <p>How operating-system capabilities can produce fast, integrated tools without unnecessary layers.</p>
     </td>
     <td width="50%" valign="top">
-      <p><code>04 — ENGINEERING PRACTICE</code></p>
-      <strong>From prototype to dependable tool</strong>
-      <p>Improving fundamentals: architecture, testing, documentation, performance and the discipline to finish.</p>
+      <h3>From prototype to dependable tool</h3>
+      <p>Architecture, testing, documentation and performance, plus the discipline to finish.</p>
     </td>
   </tr>
-</table>A few principles I keep returning to
-- Understand the problem before choosing the model. A complex stack is not automatically a better solution.
-- Make behaviour inspectable. Useful software should explain what it did and where its limits are.
-- Respect constraints. Hardware, bandwidth, cost and accessibility are engineering inputs—not afterthoughts.
-- Prefer open foundations. Tools should be understandable, adaptable and useful beyond one vendor's ecosystem.
-05 / Connect
-I'm currently pursuing my MCA at SRM Valliammai Engineering College and using projects to deepen my engineering practice. I'm interested in thoughtful conversations around applied AI, systems engineering and open-source software.
+</table>
+
+### Principles I keep returning to
+
+- **Understand the problem before choosing the model.** A complex stack is not automatically a better solution.
+- **Make behaviour inspectable.** Useful software explains what it did and where its limits are.
+- **Respect constraints.** Hardware, bandwidth, cost and accessibility are engineering inputs, not afterthoughts.
+- **Prefer open foundations.** Tools should be understandable and adaptable beyond one vendor's ecosystem.
+
+## Connect
+
+I'm pursuing my MCA at SRM Valliammai Engineering College and using projects to deepen my engineering practice. I'm always glad to talk about applied AI, systems engineering and open-source software.
+
 <p>
-  <a href="https://github.com/Mariakevin">GITHUB</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mariakevin/">LINKEDIN</a> &nbsp;·&nbsp;
-  <a href="mailto:mariakevin0504@gmail.com">EMAIL</a>
-</p><p align="center">
-  <sub>MARAYN / FIELD ATLAS 001 &nbsp;·&nbsp; Built in public, one useful experiment at a time.</sub>
-</p><p align="right"><a href="#top"><sub>BACK TO TOP ↑</sub></a></p>
+  <a href="https://github.com/Mariakevin">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mariakevin/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:mariakevin0504@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mariakevin/Mariakevin/output/github-contribution-grid-snake.svg" alt="Contribution graph rendered as a snake eating the contribution squares" width="100%" />
+</p>
